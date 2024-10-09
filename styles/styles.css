@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;    
+}
+h1 {
+    font-size: 40px;
+    border: 1px solid white;
+}
